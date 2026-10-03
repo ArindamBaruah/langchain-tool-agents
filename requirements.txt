@@ -1,0 +1,8 @@
+\
+langchain
+langchain-community
+langchain-core
+langchain-openrouter
+langchain-text-splitters
+langsmith
+requests
